@@ -1,0 +1,17 @@
+PODS:
+  - Mantle (2.0.7):
+    - Mantle/extobjc (= 2.0.7)
+  - Mantle/extobjc (2.0.7)
+  - Realm (0.102.0):
+    - Realm/Headers (= 0.102.0)
+  - Realm/Headers (0.102.0)
+
+DEPENDENCIES:
+  - Mantle
+  - Realm
+
+SPEC CHECKSUMS:
+  Mantle: bc40bb061d8c2c6fb48d5083e04d928c3b7f73d9
+  Realm: 5d219f9037e3ec2019c599b8227bfc95433cb10e
+
+COCOAPODS: 0.38.2
